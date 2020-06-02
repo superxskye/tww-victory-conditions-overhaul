@@ -1,1 +1,1 @@
-# tww-victory-conditions-overhaul
+# Loreful Victory Conditions for Total War: Warhammer II
