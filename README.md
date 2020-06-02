@@ -1,1 +1,1 @@
-# Loreful Victory Conditions for Total War: Warhammer II
+# Victory Conditions Overhaul Mods for Total War: Warhammer II
