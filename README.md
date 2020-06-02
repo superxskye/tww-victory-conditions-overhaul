@@ -1,1 +1,1 @@
-# Victory Conditions Overhaul Mods for Total War: Warhammer II
+# Victory Conditions Overhaul Mods for TW: Warhammer II
