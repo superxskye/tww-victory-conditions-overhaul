@@ -5,13 +5,24 @@
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Ensure total grudges severity is no more than 9
+	* Unite the Dwarfholds under your rule
+	* World Tour
+	* Defeat the Chaos
+	* Defeat Archaon
 * **Long Victory Conditions**:
-	* TBD
+	* Clear the book of grudges
+	* Unite the Dwarfholds under your rule
+	* Recapture all of the fallen Dwarf holds
+	* Rockin' All Over The World
+	* Defeat the Chaos Invasion
+	* Defeat Archaon
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
@@ -23,13 +34,29 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Ensure total grudges severity is no more than 9
+	* Construct the Great Slayer Shrine in Karak Kadrin
+	* Destroy factions
+	* Conquer provinces
+	* Own at least 7 slayers
+	* Own at least 60 units
+	* Defeat the Chaos Invasion
+	* Defeat Archaon
 * **Long Victory Conditions**:
-	* TBD
+	* Clear the book of grudges
+	* Construct the Great Slayer Shrine in Karak Kadrin
+	* Destroy factions
+	* Conquer Provinces
+	* Own at least 7 slayers
+	* Own at least 100 units
+	* Defeat the Chaos Invasion
+	* Defeat Archaon
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
@@ -41,13 +68,28 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Control Karak Eight Peaks
+	* Ensure total grudges severity is no more than 9
+	* Unite the Dwarfholds under your rule
+	* Destroy the Greenskins faction
+	* World Tour
+	* Defeat the Chaos Invasion
+	* Defeat Archaon
 * **Long Victory Conditions**:
-	* TBD
+	* Control Karak Eight Peaks
+	* Clear the book of grudges
+	* Unite the Dwarfholds under your rule
+	* Destroy the Greenskins factions and Queek
+	* Recapture all of the fallen Dwarf holds
+	* Rockin' All Over The World
+	* Defeat the Chaos Invasion
+	* Defeat Archaon
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
