@@ -65,7 +65,9 @@ TBD
 
 For both victories, World Tour and Rockin' All Over The World should be deleted, as they do not feel natural.
 
-TBD
+TBD 
+
+(Suggestion) True Undead: Destroy Tomb King factions
 
 ## Modden Victory Conditions
 
