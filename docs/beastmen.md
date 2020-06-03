@@ -5,13 +5,25 @@
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Raze or sack 40 regions
+	* Earn 10000 from raiding
+	* Destroy factions
+	    * Empire, Bretonnia, AVerland, Hochland, Middenland, Norland, Ostland, Ostermark, Stirland, Talabecland,
+	    Wissenland
+	* Win the final battle
 * **Long Victory Conditions**:
-	* TBD
+	* Raze or sack 70 regions
+	* Earn 20000 from raiding
+	* Destroy factions
+	    * Empire, Bretonnia, AVerland, Hochland, Middenland, Norland, Ostland, Ostermark, Stirland, Talabecland,
+	    Wissenland, Dwarfs
+	* Win the final battle
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD

@@ -9,9 +9,11 @@
 * **Long Victory Conditions**:
 	* TBD
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
@@ -27,9 +29,11 @@ TBD
 * **Long Victory Conditions**:
 	* TBD
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
@@ -45,9 +49,11 @@ TBD
 * **Long Victory Conditions**:
 	* TBD
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
@@ -63,9 +69,11 @@ TBD
 * **Long Victory Conditions**:
 	* TBD
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
@@ -81,9 +89,11 @@ TBD
 * **Long Victory Conditions**:
 	* TBD
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
@@ -99,9 +109,11 @@ TBD
 * **Long Victory Conditions**:
 	* TBD
 
-### Modded Victory Conditions
+### Analysis
 
 TBD
+
+### Modded Victory Conditions
 
 * **Short Victory Conditions**:
 	* TBD
