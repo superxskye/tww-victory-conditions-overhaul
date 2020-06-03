@@ -5,9 +5,11 @@
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Attain 2000 Chivalry
+	* Complete the final Errantry War battle
 * **Long Victory Conditions**:
-	* TBD
+	* Attain 2000 Chivalry
+	* Complete the final Errantry War battle
 
 ### Analysis
 
@@ -25,9 +27,11 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Attain 1000 Chivalry
+	* Complete the final Errantry War battle
 * **Long Victory Conditions**:
-	* TBD
+	* Attain 1000 Chivalry
+	* Complete the final Errantry War battle
 
 ### Analysis
 
@@ -45,9 +49,11 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Attain 1000 Chivalry
+	* Complete the final Errantry War battle
 * **Long Victory Conditions**:
-	* TBD
+	* Attain 1000 Chivalry
+	* Complete the final Errantry War battle
 
 ### Analysis
 
@@ -65,9 +71,11 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Attain 2000 Chivalry
+	* Complete the final Errantry War battle
 * **Long Victory Conditions**:
-	* TBD
+	* Attain 2000 Chivalry
+	* Complete the final Errantry War battle
 
 ### Analysis
 

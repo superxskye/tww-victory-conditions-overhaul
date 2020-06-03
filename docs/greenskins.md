@@ -51,10 +51,27 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Destroy Osterark, Kislev and Karak Kadrin
+	* Occupy/loot/raze/sack at least 25 different settlements
+	* World Tour
+	    * Control at least 8 of the following regions:
+	        * Couronne, Altdorf, Castle Drakenhof, Oak of Ages, Miragliano, Skavenblight, Kislev, Hell Pit, Karaz-a-Karak,
+            Karak Eight Peaks, Karak Drazh, Lahmia, Khermi, Itza, Hecoatl, Naggarond, Lothern, Gaean Vale, The Awakening, 
+            Graveyard, Sartosa
+	* Earn 10000 from raiding
+	* Defeat Archaon
 * **Long Victory Conditions**:
-	* TBD
-
+	* Destroy Empire, Kislev and Karak Kadrin
+	* Occupy/loot/raze/sack at least 50 different settlements
+	* Control Nagashizar
+	* Rockin' All Over The World
+	    * Control at least 17 of the following regions:
+	        * Couronne, Altdorf, Castle Drakenhof, Oak of Ages, Miragliano, Skavenblight, Kislev, Hell Pit, Karaz-a-Karak,
+            Karak Eight Peaks, Karak Drazh, Lahmia, Khermi, Itza, Hecoatl, Naggarond, Lothern, Gaean Vale, The Awakening, 
+            Graveyard, Sartosa
+	* Earn 20000 from raiding
+	* Defeat Archaon
+	
 ### Analysis
 
 For both victories, World Tour and Rockin' All Over The World should be deleted, as they do not feel natural.
@@ -73,9 +90,33 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	*  Conquer or assimilate all of the Greenskin tribes
+	    * Greenskins, Black Venom, Bloody Spearz, Broken Nose, Crooken Moon, Necksnappers, Orcs od the Bloody Hand, Red
+	    Eye, Red Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz
+	* Occupy/loot/raze/sack at least 25 different settlements
+	* World Tour
+	    * Control at least 8 of the following regions:
+	        * Couronne, Altdorf, Castle Drakenhof, Oak of Ages, Miragliano, Skavenblight, Kislev, Hell Pit, Karaz-a-Karak,
+            Karak Eight Peaks, Karak Drazh, Lahmia, Khermi, Itza, Hecoatl, Naggarond, Lothern, Gaean Vale, The Awakening, 
+            Graveyard, Sartosa
+	* Earn 10000 from raiding
+	* Defeat Archaon
 * **Long Victory Conditions**:
-	* TBD
+	* Destroy Empire and Dwarfs and Conquer or assimilate all of the Greenskin tribes
+	    * Greenskins, Black Venom, Bloody Spearz, Broken Nose, Necksnappers, Orcs od the Bloody Hand, Red Eye, Red 
+	    Fangs, Scabby Eye, Skullmasherz, Teef Snatchaz, Top Knotz, Dwarfs, Empire
+	* Occupy/loot/raze/sack at least 50 different settlements
+	* Capture all of the Dwarf provinces
+	    * Karak Ziflin, Karak Norn, Karak Izor, Karak Hirn, Karag Dromar, Oakenhammer, Zhufbar, Karaz-a-Karak, 
+	    The Pillars of Grungni, Karak Kadrin, Barak Varr, Varenka Hills, Dringorackaz, Kradtommen, Kraka Drak,
+	    Khazid Bordkarag, Sjoktraken, Karak Azul
+	* Rockin' All Over The World
+	    * Control at least 17 of the following regions:
+	        * Couronne, Altdorf, Castle Drakenhof, Oak of Ages, Miragliano, Skavenblight, Kislev, Hell Pit, Karaz-a-Karak,
+            Karak Eight Peaks, Karak Drazh, Lahmia, Khermi, Itza, Hecoatl, Naggarond, Lothern, Gaean Vale, The Awakening, 
+            Graveyard, Sartosa
+	* Earn 20000 from raiding
+	* Defeat Archaon
 
 ### Analysis
 
@@ -143,9 +184,28 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Complete 3 Missions
+	* Have at least 100 Waaagh
+	* Destroy Yvresse
+	* Earn 10000 from raiding
+	* Own at least 5 of the following units
+	    * Giant, Rogue Idol, Rogue Idol (RoR), Arachnarock Spider, Venom Queen, Black Orcs, Krimson Killerz, Orc Boar
+	    Boy Big Uns, Broken Tusk, Goblin Rock Lobbert, Hammer of Gork
 * **Long Victory Conditions**:
-	* TBD
+	* Complete 5 Missions
+	* Have at least 100 Waaagh
+	* Destroy factions
+	    * Yvresse, Eataine, Empire, Bretonnia
+	* Earn 25000 from raiding
+	* Own at least 15 of the following units
+	    * Giant, Rogue Idol, Rogue Idol (RoR), Arachnarock Spider, Venom Queen, Black Orcs, Krimson Killerz, Orc Boar
+	    Boy Big Uns, Broken Tusk, Goblin Rock Lobbert, Hammer of Gork
+	* Control al least 18 provinces
+	* Rockin' All Over The World
+	    * Control at least 17 of the following regions:
+	        * Couronne, Altdorf, Castle Drakenhof, Oak of Ages, Miragliano, Skavenblight, Kislev, Hell Pit, Karaz-a-Karak,
+            Karak Eight Peaks, Karak Drazh, Lahmia, Khermi, Itza, Hecoatl, Naggarond, Lothern, Gaean Vale, The Awakening, 
+            Graveyard, Sartosa
 
 ### Analysis
 

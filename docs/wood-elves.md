@@ -5,9 +5,11 @@
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Construct the Oak of Ages 5
+	* Complete the final battle
 * **Long Victory Conditions**:
-	* TBD
+	* Construct the Oak of Ages 5
+	* Complete the final battle
 
 ### Analysis
 
@@ -25,9 +27,11 @@ TBD
 ### Vanilla Victory Conditions
 
 * **Short Victory Conditions**:
-	* TBD
+	* Construct the Oak of Ages 5
+	* Complete the final battle
 * **Long Victory Conditions**:
-	* TBD
+	* Construct the Oak of Ages 5
+	* Complete the final battle
 
 ### Analysis
 
