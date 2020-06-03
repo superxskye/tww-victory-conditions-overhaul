@@ -618,7 +618,7 @@ victory_objectives
 					faction wh_main_grn_orcs_of_the_bloody_hand;
 					faction wh_main_grn_necksnappers;
 					faction wh2_main_skv_clan_mors;
-					faction wh2_main_skv_clan_skrye;  // TODO CHECK
+					faction wh2_main_skv_clan_skyre;
 					faction wh2_main_skv_clan_mordkin;  // TODO CHECK
 					faction wh2_main_skv_clan_eshin;
 					faction wh2_main_skv_clan_moulder;
